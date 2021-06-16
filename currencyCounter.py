@@ -16,7 +16,6 @@ def main():
     outString = "Amount: {}, Currencies:".format(originalMoney)
 
     cNames = ['$100 Bills','$50 Bills','$20 Bills','$10 Bills','$5 Bills','$1 Bills','Quarters','Dimes','Nickles','Pennies',]
-    currencys = [0,0,0,0,0,0,0,0,0,0]
     cValues = [10000,5000,2000,1000,500,100,25,10,5,1]
     cInt = 0
 
